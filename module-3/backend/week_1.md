@@ -5,7 +5,6 @@ Some of these questions are from this week, some are from previous weeks, and so
 1. What is `json`, what does it stand for, and why is it important?
    * Java Script Object Notation. It's a data format that a lot of languages already have libraries built to be able to accept and talk to. 
    * Easy way to pass a lot of data as a string. Easy for machine reading and human reading. Can be easily mapped.
-   * 
    
 2. What kind of object is JSON in Ruby? How do we know it's JSON?
    * It is a string.
@@ -18,6 +17,7 @@ Some of these questions are from this week, some are from previous weeks, and so
 4. What's a RESTful API? How does that look in Rails?
    * An API that sticks to RESTful conventions. No custom routes. 
    * No custom actions in controllers
+   * There's no real "spec" for it so there can be some gray area.
 
 5. What is an ORM, what does it stand for, and why is it helpful?
    * A set of libraries/classes that lets tables talk to eachother. Can take relational data from tables and provides a map to allow those tables to talk to eachother. 
